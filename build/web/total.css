@@ -1,0 +1,108 @@
+* {
+  border-width: 0;
+  font-style: normal;
+  color: white;
+  font-family: 'Roboto';
+}
+
+html {
+  background-image: url('https://static.displate.com/1200x857/displate/2023-01-16/d8a2007eab9fd13ecaf5ccaf70ef742e_a5c22f83e33ad1588a809e85cd9d3720.jpg');
+  background-cover: cover;
+  background-size: 110%;
+  background-opacity: 30%;
+  background-color: black;
+}
+
+h1 {
+  background-image: url('https://cdn.wallpapersafari.com/75/49/lg7sK4.png');
+  box-shadow: 0 0 40px red;
+  background-color: black;
+  border: 1px solid;
+  width: 50%;
+  margin-left: 22%;
+  margin-right: 25%;
+  margin-top: 30px;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+#common {
+  box-shadow: 0 0 40px #5ee4ff;
+  background-color: black;
+  border: 1px solid;
+  width: 50%;
+  margin-left: 22%;
+  margin-right: 25%;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+h4 {
+  font-size: 25px;
+}
+
+button {
+  padding: 15px;
+  font-weight: bold;
+  font-size: 100%;
+  width: 170px;
+  text-align: center;
+  padding-top: 10px;
+  color: black;
+  background-color: yellow; 
+  border: 2px solid black;
+  height: 40px;
+  align-self: center;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #5ee4ff;
+}
+
+button:hover {
+  background: yellow;
+  color: black;
+  box-shadow: 0 0 40px red;
+  border: 2px solid red;
+}
+
+div {
+  background-image: url('https://cdn.wallpapersafari.com/75/49/lg7sK4.png');
+  background-color: black;
+  box-shadow: 0 0 40px #5ee4ff;
+  width: 50%;
+  margin-left: 20%;
+  margin-right: 20%;
+  border: 5px solid;
+  border-radius: 50px;
+  padding: 50px;
+}
+
+#text {
+  width: 150px;
+  height: 30px;
+  border-radius: 10px;
+  color: black;
+  font-size: 15px;
+}
+
+#sub {
+  padding: 15px;
+  font-weight: bold;
+  font-size: 100%;
+  width: 170px;
+  text-align: center;
+  padding-top: 10px;
+  color: black;
+  background-color: yellow; 
+  border: 2px solid black; 
+  height: 40px;
+  align-self: center;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #5ee4ff;
+}
+
+#sub:hover {
+  background: yellow; 
+  color: black;
+  box-shadow: 0 0 40px red;
+}
