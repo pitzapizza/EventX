@@ -4,8 +4,6 @@
 
 Welcome to **EventX**, a Java-powered **Event Management System** developed to simplify organizing and managing events for both organizers and participants. This project was created as part of an initiative to learn and demonstrate the integration of Java technologies like JDBC, JSP, Servlets, and MySQL in building full-stack web applications. 
 
-<img align="right" src="https://img.icons8.com/external-flat-icons-pause-08/64/000000/external-events-vacation-flat-icons-pause-08.png" alt="EventX Logo" width="200" height="200">
-
 ### Features ✨ 
 
 - **Event Registration**: Enables users to register for events seamlessly.
