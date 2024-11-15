@@ -1,6 +1,6 @@
 <p id="header"></p>
 
-# EventX <img src="https://img.icons8.com/color/48/000000/event-accepted.png" alt="Back to Top" width="35" height="35">
+# EventX
 
 Welcome to **EventX**, a Java-powered **Event Management System** developed to simplify organizing and managing events for both organizers and participants. This project was created as part of an initiative to learn and demonstrate the integration of Java technologies like JDBC, JSP, Servlets, and MySQL in building full-stack web applications. 
 
